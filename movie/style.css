@@ -10,8 +10,8 @@
 
 *{
     font-family: 'Nunito', sans-serif;
-    margin: 5;
-    padding: 10px;
+    margin: 0;
+    padding: 7px;
     box-sizing: border-box;
     text-decoration: none;
     outline: none;
@@ -286,7 +286,7 @@ header .icons #menu-bars{
 .about{
     margin-top:2rem;
     color: #fff;
-    padding: 20px;
+/*     padding: 20px; */
 }
 
 .about h2{
