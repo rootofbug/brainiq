@@ -285,7 +285,8 @@ header .icons #menu-bars{
 
 .about{
     margin-top:2rem;
-    color: #fff;;
+    color: #fff;
+    padding: 10px;
 }
 
 .about h2{
